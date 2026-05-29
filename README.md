@@ -1,6 +1,5 @@
 # for-you
-surat cinta dariku xixii
-<!DOCTYPE html>
+wopyuuu moree sayanggg xixii
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -58,15 +57,15 @@ surat cinta dariku xixii
 <body>
     <div class="background-decor" id="bgDecor"></div>
     <div class="envelope-wrapper" id="btnOpen">
-        <button class="main-button"><span>Pencet Ini Ada Pesan Buat Kamu</span> ❤️</button>
+        <button class="main-button"><span>Pencet Ini ada Pesan Buat Kamu</span> ❤️</button>
     </div>
     <div class="overlay" id="overlay"></div>
     <div class="letter-box" id="letterBox">
         <div class="heart-icon">❤️</div>
         <div class="letter-content">
-            <p><b>mencintaimu adalah</b> pilihanku.</p>
+            <p><b>mencintaimu adalah</b> pilihankuu.</p>
             <p>Senang, sedih adalah resikoku karena aku telah <b>memilihmu</b>,</p>
-            <p>takkan menyesal, tuk tetap <b>mencintaimu</b>. 💕</p>
+            <p>aku takkan menyesal, tuk tetap <b>mencintaimu</b>. 💕</p>
             <br>
             <p style="font-size: 0.95rem; font-style: italic; color: #9ca3af;">"Aku ingin mencintaimu lebih banyak dari debar, lebih besar dari sabar, lebih lama dari selamanya."</p>
         </div>
