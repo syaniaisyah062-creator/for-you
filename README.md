@@ -62,12 +62,16 @@ wopyuuu moree sayanggg xixii
     <div class="overlay" id="overlay"></div>
     <div class="letter-box" id="letterBox">
         <div class="heart-icon">❤️</div>
-        <div class="letter-content">
-            <p><b>mencintaimu adalah</b> pilihankuu.</p>
-            <p>Senang, sedih adalah resikoku karena aku telah <b>memilihmu</b>,</p>
-            <p>aku takkan menyesal, tuk tetap <b>mencintaimu</b>. 💕</p>
-            <br>
-            <p style="font-size: 0.95rem; font-style: italic; color: #9ca3af;">"Aku ingin mencintaimu lebih banyak dari debar, lebih besar dari sabar, lebih lama dari selamanya."</p>
+      <div class="letter-content">
+    <p><b>Terima kasih udah bertahan hehe</b> sampai sekarang.</p>
+    <p>yiyii sadar mungkin yiyi masih jauh dari kata sempurna,bahkank banyak ndaa sesuai sama yang kamu harapkan.</p>
+    <p>Tapi yiyii tetap bersyukur, karena kamu tetap ada di sini, tetep stay sama yiyii dan tetap mau nemenin yiyi ehehe padahal yiyi naa ribett, manjaa dan yaa gitu deh,but maacii sayanggg,loveee youuu foreverrr and moreee moreee moreee sayanggg. 💕</p>
+    <br>
+    <p style="font-size: 0.95rem; font-style: italic; color: #9ca3af;">
+      _yiyi mau terus belajar mencintaimu dengan cara yang lebih dewasa, lebih sabar, dan lebih tulus buat kamuu naa ehehe,ndapapa keliatan lebay atau alay but maaciiii sayanggg."
+    </p>
+</div>
+
         </div>
         <button class="close-btn" id="btnClose">Tutup Surat</button>
     </div>
